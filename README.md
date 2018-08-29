@@ -23,7 +23,7 @@ data = sniffer.capture_traffic(self, url, wait_time = 30, save = False, save_pat
 
 ### Data scheme example
 
-Inside entries there is an array with the requestas and its responses.
+Inside entries there is an array with the requests and its responses.
 
 ```
 {
