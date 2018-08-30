@@ -1,6 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+#########################################################
+#
+# Alejandro German
+# 
+# https://github.com/seralexger/selenium-capturetraffic
+#
+#########################################################
+
 from capturetraffic import CaptureTraffic
 
 
